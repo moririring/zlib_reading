@@ -1,0 +1,14 @@
+﻿2015/05/31 22:53:52 にビルドを開始しました。
+     1>ノード 4 上のプロジェクト "C:\Users\BinMatsui\Downloads\zlib128\zlib-1.2.8\contrib\vstudio\vc11\miniunz.vcxproj" (Rebuild ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I..\..\.. /I..\..\minizip /Zi /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _CRT_NONSTDC_NO_DEPRECATE /D _CRT_SECURE_NO_DEPRECATE /D ZLIB_WINAPI /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /MDd /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x86\MiniUnzipDebug\Tmp\\" /Fd"x86\MiniUnzipDebug\Tmp\vc140.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\minizip\miniunz.c
+         miniunz.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"x86\MiniUnzipDebug\miniunz.exe" /INCREMENTAL /NOLOGO x86\ZlibDllDebug\zlibwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST:NO /Debug /PDB:"x86\MiniUnzipDebug\miniunz.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE:NO /IMPLIB:"x86\MiniUnzipDebug\miniunz.lib" /MACHINE:X86 /SAFESEH x86\MiniUnzipDebug\Tmp\miniunz.obj
+         "C:\Users\BinMatsui\Downloads\zlib128\zlib-1.2.8\contrib\vstudio\vc11\x86\ZlibDllDebug\zlibwapi.lib"
+         miniunz.vcxproj -> C:\Users\BinMatsui\Downloads\zlib128\zlib-1.2.8\contrib\vstudio\vc11\x86\MiniUnzipDebug\miniunz.exe
+     1>プロジェクト "C:\Users\BinMatsui\Downloads\zlib128\zlib-1.2.8\contrib\vstudio\vc11\miniunz.vcxproj" (Rebuild ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:01.30
